@@ -141,7 +141,20 @@ Til Infiltration Detection
 - Validate results with domain experts (pathologists).
 
 ---
+## Team
 
+**AI/ML – Group 136 (2026)**
+
+| Name | Register No. |
+|------|------|
+| Akshat Grover | 25BAI10763 |
+| Shivika Patidar | 25BAI11010 |
+| Shaleen Dutta | 25BAI10034  |
+| Manthan Chandrawanshi | 25BAI10289 |
+| Himanshu Lacchwani | 25BAI10080 |
+| Atharva Malviya | 25BAI10950 |
+
+---
 ## ⚠️ Disclaimer
 
 This project is built **for academic and educational purposes only**. It is **not** a medical device and must not be used for real clinical diagnosis or treatment decisions.
