@@ -113,17 +113,16 @@ Run all cells from top to bottom. The notebook can also be uploaded to **Kaggle*
 
 
 Cancer Detection
-|Model|	Train Acc.|	Recall|
-
-|------|----------------|
-|CNN (Transfer)	|98.03%|	98%|
+|Model|Train Acc.|Recall|
+|------|----------|------|
+|CNN (Transfer)|98.03%|98%|
 
 Til Infiltration Detection
-|Model|	Train Acc.|	Positive Recall|
-|------|----------------|
-|CNN (Transfer)|	74.67%|	77%|
-|------|----------------|
-|ViT(Transfer)|	69.91%|	79%|
+|Model|Train Acc.|Positive Recall|
+|------|---------|-------|
+|CNN (Transfer)|74.67%|	77%|
+|------|---------|-------|
+|ViT(Transfer)|69.91%|79%|
 
 
 
