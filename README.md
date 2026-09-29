@@ -121,7 +121,6 @@ Til Infiltration Detection
 |Model|Train Acc.|Positive Recall|
 |------|---------|-------|
 |CNN (Transfer)|74.67%|	77%|
-|------|---------|-------|
 |ViT(Transfer)|69.91%|79%|
 
 
