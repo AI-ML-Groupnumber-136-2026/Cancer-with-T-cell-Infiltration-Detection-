@@ -150,7 +150,7 @@ Til Infiltration Detection
 | Shivika Patidar | 25BAI11010 |
 | Shaleen Dutta | 25BAI10034  |
 | Manthan Chandrawanshi | 25BAI10289 |
-| Himanshu Lacchwani | 25BAI10080 |
+| Himanshu Lachhwani | 25BAI10080 |
 | Atharva Malviya | 25BAI10950 |
 
 ---
